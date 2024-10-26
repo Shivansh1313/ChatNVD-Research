@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is the published date of CVE-2016-9733",
+        "expected_answer": "2017-07-05T17:29Z",
+        "actual_answer": "The published date of CVE-2016-9733 is 2017-07-05T17:29Z. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2016-9733."
+    },
+    {
+        "question": "What is the description of CVE-2016-9733",
+        "expected_answer": "IBM Team Concert (RTC) 4.0, 5.0 and 6.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 119762.",
+        "actual_answer": "The description of CVE-2016-9733 is: \"IBM Team Concert (RTC) 4.0, 5.0 and 6.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 119762.\" \n\nFor more information, visit https://nvd.nist.gov/vuln/detail/CVE-2016-9733."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2016-9733",
+        "expected_answer": 2.3,
+        "actual_answer": "The exploitability score of CVE-2016-9733 is 2.3. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2016-9733."
+    },
+    {
+        "question": "What is the impact score of CVE-2016-9733",
+        "expected_answer": 2.7,
+        "actual_answer": "The impact score of CVE-2016-9733 is 2.7. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2016-9733"
+    },
+    {
+        "question": "What is the base score of CVE-2016-9733",
+        "expected_answer": 5.4,
+        "actual_answer": "The base score of CVE-2016-9733 is 5.4. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2016-9733."
+    },
+    {
+        "question": "What is the published date of CVE-2022-33248",
+        "expected_answer": "2023-02-12T04:15Z",
+        "actual_answer": "The published date of CVE-2022-33248 is 2023-02-12T04:15Z. \n\nFor more details, visit: [CVE-2022-33248](https://nvd.nist.gov/vuln/detail/CVE-2022-33248)"
+    },
+    {
+        "question": "What is the description of CVE-2022-33248",
+        "expected_answer": "Memory corruption in User Identity Module due to integer overflow to buffer overflow when a segement is received via qmi http.",
+        "actual_answer": "The description of CVE-2022-33248 is: \"Memory corruption in User Identity Module due to integer overflow to buffer overflow when a segment is received via qmi http.\" \n\nFor more details, visit: [CVE-2022-33248](https://nvd.nist.gov/vuln/detail/CVE-2022-33248)"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2022-33248",
+        "expected_answer": 1.8,
+        "actual_answer": "The exploitability score of CVE-2022-33248 is 1.8. For more details, you can visit [https://nvd.nist.gov/vuln/detail/CVE-2022-33248](https://nvd.nist.gov/vuln/detail/CVE-2022-33248)."
+    },
+    {
+        "question": "What is the impact score of CVE-2022-33248",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2022-33248 is 5.9. For more details, visit: [CVE-2022-33248](https://nvd.nist.gov/vuln/detail/CVE-2022-33248)."
+    },
+    {
+        "question": "What is the base score of CVE-2022-33248",
+        "expected_answer": 7.8,
+        "actual_answer": "The base score of CVE-2022-33248 is 7.8. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2022-33248."
+    },
+    {
+        "question": "What is the published date of CVE-2022-27412",
+        "expected_answer": "2022-05-09T18:15Z",
+        "actual_answer": "The published date of CVE-2022-27412 is 2022-05-09T18:15Z. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2022-27412."
+    },
+    {
+        "question": "What is the description of CVE-2022-27412",
+        "expected_answer": "Explore CMS v1.0 was discovered to contain a SQL injection vulnerability via a /page.php?id= request.",
+        "actual_answer": "The description of CVE-2022-27412 is: \"Explore CMS v1.0 was discovered to contain a SQL injection vulnerability via a /page.php?id= request.\" \n\nFor more details, you can visit: https://nvd.nist.gov/vuln/detail/CVE-2022-27412"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2022-27412",
+        "expected_answer": 3.9,
+        "actual_answer": "The exploitability score of CVE-2022-27412 is 3.9. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2022-27412."
+    },
+    {
+        "question": "What is the impact score of CVE-2022-27412",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2022-27412 is 5.9. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2022-27412."
+    },
+    {
+        "question": "What is the base score of CVE-2022-27412",
+        "expected_answer": 9.8,
+        "actual_answer": "The base score of CVE-2022-27412 is 9.8. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2022-27412."
+    },
+    {
+        "question": "What is the published date of CVE-2023-40476",
+        "expected_answer": "2024-05-03T03:15Z",
+        "actual_answer": "The published date of CVE-2023-40476 is 2024-05-03T03:15Z. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2023-40476."
+    },
+    {
+        "question": "What is the description of CVE-2023-40476",
+        "expected_answer": "GStreamer H265 Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. Interaction with this library is required to exploit this vulnerability but attack vectors may vary depending on the implementation.\n\nThe specific flaw exists within the parsing of H265 encoded video files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-21768.",
+        "actual_answer": "CVE-2023-40476 is a vulnerability in GStreamer related to H265 parsing that leads to a stack-based buffer overflow, allowing remote code execution. This vulnerability enables remote attackers to execute arbitrary code on affected installations of GStreamer, requiring interaction with the library to exploit it, though attack vectors may vary based on the implementation. The flaw specifically arises from improper validation of the length of user-supplied data before copying it to a fixed-length stack-based buffer, which could allow an attacker to execute code in the context of the current process. This vulnerability was also identified as ZDI-CAN-21768. \n\nFor more details, visit: https://nvd.nist.gov/vuln/detail/CVE-2023-40476"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2023-40476",
+        "expected_answer": "No data available",
+        "actual_answer": "Data not available. Please check the details at https://nvd.nist.gov/vuln/detail/CVE-2023-40476."
+    },
+    {
+        "question": "What is the impact score of CVE-2023-40476",
+        "expected_answer": "No data available",
+        "actual_answer": "Data not available."
+    },
+    {
+        "question": "What is the base score of CVE-2023-40476",
+        "expected_answer": "No data available",
+        "actual_answer": "data not available"
+    },
+    {
+        "question": "What is the published date of CVE-2022-1890",
+        "expected_answer": "2023-01-26T21:15Z",
+        "actual_answer": "The published date of CVE-2022-1890 is 2023-01-26T21:15Z. You can find more information at https://nvd.nist.gov/vuln/detail/CVE-2022-1890."
+    },
+    {
+        "question": "What is the description of CVE-2022-1890",
+        "expected_answer": "A buffer overflow in the ReadyBootDxe driver in some Lenovo Notebook products may allow an attacker with local privileges to execute arbitrary code.",
+        "actual_answer": "A buffer overflow in the ReadyBootDxe driver in some Lenovo Notebook products may allow an attacker with local privileges to execute arbitrary code. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2022-1890."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2022-1890",
+        "expected_answer": 1.8,
+        "actual_answer": "The exploitability score of CVE-2022-1890 is 1.8. For more details, you can visit https://nvd.nist.gov/vuln/detail/CVE-2022-1890"
+    },
+    {
+        "question": "What is the impact score of CVE-2022-1890",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2022-1890 is 5.9. You can find more details [here](https://nvd.nist.gov/vuln/detail/CVE-2022-1890)."
+    },
+    {
+        "question": "What is the base score of CVE-2022-1890",
+        "expected_answer": 7.8,
+        "actual_answer": "The base score of CVE-2022-1890 is 7.8. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2022-1890."
+    }
+]

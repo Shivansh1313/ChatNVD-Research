@@ -1,0 +1,24 @@
+[
+    {
+        "question": "What is the published date of CVE-2016-9733",
+        "expected_answer": "2017-07-05T17:29Z"
+    },
+    {
+        "question": "What is the description of CVE-2016-9733",
+        "expected_answer": "IBM Team Concert (RTC) 4.0, 5.0 and 6.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 119762."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2016-9733",
+        "expected_answer": 2.3
+    },
+    {
+        "question": "What is the impact score of CVE-2016-9733",
+        "expected_answer": 2.7
+    },
+    {
+        "question": "What is the base score of CVE-2016-9733",
+        "expected_answer": 5.4
+    }
+
+]
+    

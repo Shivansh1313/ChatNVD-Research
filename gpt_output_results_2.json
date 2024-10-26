@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is the published date of CVE-2006-6352",
+        "expected_answer": "2006-12-07T01:28Z",
+        "actual_answer": "The published date of CVE-2006-6352 is 2006-12-07T01:28Z. You can find more details about it here: https://nvd.nist.gov/vuln/detail/CVE-2006-6352"
+    },
+    {
+        "question": "What is the description of CVE-2006-6352",
+        "expected_answer": "FRISK Software F-Prot Antivirus before 4.6.7 allows user-assisted remote attackers to cause a denial of service (infinite loop) via a crafted ACE file.  NOTE: this issue has at least a partial overlap with CVE-2006-6294.",
+        "actual_answer": "The description of CVE-2006-6352 is: \"FRISK Software F-Prot Antivirus before 4.6.7 allows user-assisted remote attackers to cause a denial of service (infinite loop) via a crafted ACE file.  NOTE: this issue has at least a partial overlap with CVE-2006-6294.\" For more details, you can visit [https://nvd.nist.gov/vuln/detail/CVE-2006-6352](https://nvd.nist.gov/vuln/detail/CVE-2006-6352)."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2006-6352",
+        "expected_answer": 10.0,
+        "actual_answer": "The exploitability score of CVE-2006-6352 is 10.0. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2006-6352."
+    },
+    {
+        "question": "What is the impact score of CVE-2006-6352",
+        "expected_answer": 2.9,
+        "actual_answer": "The impact score of CVE-2006-6352 is 2.9. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2006-6352."
+    },
+    {
+        "question": "What is the base score of CVE-2006-6352",
+        "expected_answer": 5.0,
+        "actual_answer": "The base score of CVE-2006-6352 is 5.0. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2006-6352."
+    },
+    {
+        "question": "What is the published date of CVE-2023-41335",
+        "expected_answer": "2023-09-27T15:19Z",
+        "actual_answer": "The published date of CVE-2023-41335 is 2023-09-27T15:19Z. You can find more details on this CVE at https://nvd.nist.gov/vuln/detail/CVE-2023-41335."
+    },
+    {
+        "question": "What is the description of CVE-2023-41335",
+        "expected_answer": "Synapse is an open-source Matrix homeserver written and maintained by the Matrix.org Foundation. When users update their passwords, the new credentials may be briefly held in the server database. While this doesn't grant the server any added capabilities\u2014it already learns the users' passwords as part of the authentication process\u2014it does disrupt the expectation that passwords won't be stored in the database. As a result, these passwords could inadvertently be captured in database backups for a longer duration. These temporarily stored passwords are automatically erased after a 48-hour window. This issue has been addressed in version 1.93.0. Users are advised to upgrade. There are no known workarounds for this issue.",
+        "actual_answer": "CVE-2023-41335 is described as follows: \"Synapse is an open-source Matrix homeserver written and maintained by the Matrix.org Foundation. When users update their passwords, the new credentials may be briefly held in the server database. While this doesn't grant the server any added capabilities\u2014it already learns the users' passwords as part of the authentication process\u2014it does disrupt the expectation that passwords won't be stored in the database. As a result, these passwords could inadvertently be captured in database backups for a longer duration. These temporarily stored passwords are automatically erased after a 48-hour window. This issue has been addressed in version 1.93.0. Users are advised to upgrade. There are no known workarounds for this issue.\"\n\nFor more details, you can visit: https://nvd.nist.gov/vuln/detail/CVE-2023-41335"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2023-41335",
+        "expected_answer": 1.2,
+        "actual_answer": "The exploitability score of CVE-2023-41335 is 1.2. You can find more details about this CVE at https://nvd.nist.gov/vuln/detail/CVE-2023-41335."
+    },
+    {
+        "question": "What is the impact score of CVE-2023-41335",
+        "expected_answer": 2.5,
+        "actual_answer": "The impact score of CVE-2023-41335 is 2.5. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2023-41335."
+    },
+    {
+        "question": "What is the base score of CVE-2023-41335",
+        "expected_answer": 3.7,
+        "actual_answer": "The base score of CVE-2023-41335 is 3.7. For more details, you can visit: https://nvd.nist.gov/vuln/detail/CVE-2023-41335"
+    },
+    {
+        "question": "What is the published date of CVE-2021-32603",
+        "expected_answer": "2021-08-05T11:15Z",
+        "actual_answer": "The published date of CVE-2021-32603 is \"2021-08-05T11:15Z\". You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2021-32603."
+    },
+    {
+        "question": "What is the description of CVE-2021-32603",
+        "expected_answer": "A server-side request forgery (SSRF) (CWE-918) vulnerability in FortiManager and FortiAnalyser GUI 7.0.0, 6.4.5 and below, 6.2.7 and below, 6.0.11 and below, 5.6.11 and below may allow a remote and authenticated attacker to access unauthorized files and services on the system via specifically crafted web requests.",
+        "actual_answer": "The description of CVE-2021-32603 is: \"A server-side request forgery (SSRF) (CWE-918) vulnerability in FortiManager and FortiAnalyser GUI 7.0.0, 6.4.5 and below, 6.2.7 and below, 6.0.11 and below, 5.6.11 and below may allow a remote and authenticated attacker to access unauthorized files and services on the system via specifically crafted web requests.\" \n\nFor more details, visit https://nvd.nist.gov/vuln/detail/CVE-2021-32603."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2021-32603",
+        "expected_answer": 2.8,
+        "actual_answer": "The exploitability score of CVE-2021-32603 is 2.8. You can find more details [here](https://nvd.nist.gov/vuln/detail/CVE-2021-32603)."
+    },
+    {
+        "question": "What is the impact score of CVE-2021-32603",
+        "expected_answer": 3.6,
+        "actual_answer": "The impact score of CVE-2021-32603 is 3.6. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2021-32603."
+    },
+    {
+        "question": "What is the base score of CVE-2021-32603",
+        "expected_answer": 6.5,
+        "actual_answer": "The base score of CVE-2021-32603 is 6.5. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2021-32603."
+    },
+    {
+        "question": "What is the published date of CVE-2020-8297",
+        "expected_answer": "2021-02-23T19:15Z",
+        "actual_answer": "The published date of CVE-2020-8297 is 2021-02-23T19:15Z. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2020-8297."
+    },
+    {
+        "question": "What is the description of CVE-2020-8297",
+        "expected_answer": "Nextcloud Deck before 1.0.2 suffers from an insecure direct object reference (IDOR) vulnerability that permits users with a duplicate user identifier to access deck data of a previous deleted user.",
+        "actual_answer": "The description of CVE-2020-8297 is: \"Nextcloud Deck before 1.0.2 suffers from an insecure direct object reference (IDOR) vulnerability that permits users with a duplicate user identifier to access deck data of a previous deleted user.\" You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2020-8297."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2020-8297",
+        "expected_answer": 2.8,
+        "actual_answer": "The exploitability score of CVE-2020-8297 is 2.8. For more details, you can visit [https://nvd.nist.gov/vuln/detail/CVE-2020-8297](https://nvd.nist.gov/vuln/detail/CVE-2020-8297)."
+    },
+    {
+        "question": "What is the impact score of CVE-2020-8297",
+        "expected_answer": 1.4,
+        "actual_answer": "The impact score of CVE-2020-8297 is 1.4. For more information, you can visit https://nvd.nist.gov/vuln/detail/CVE-2020-8297."
+    },
+    {
+        "question": "What is the base score of CVE-2020-8297",
+        "expected_answer": 4.3,
+        "actual_answer": "The base score of CVE-2020-8297 is 4.3. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2020-8297."
+    },
+    {
+        "question": "What is the published date of CVE-2018-18013",
+        "expected_answer": "2018-10-24T21:29Z",
+        "actual_answer": "The published date of CVE-2018-18013 is 2018-10-24T21:29Z. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2018-18013."
+    },
+    {
+        "question": "What is the description of CVE-2018-18013",
+        "expected_answer": "* Xen Mobile through 10.8.0 includes a service listening on port 5001 within its firewall that accepts unauthenticated input. If this service is supplied with raw serialised Java objects, it deserialises them back into Java objects in memory, giving rise to a remote code execution vulnerability.  NOTE: the vendor disputes that this is a vulnerability, stating it is \"already mitigated by the internal firewall that limits access to configuration services to localhost.",
+        "actual_answer": "The description of CVE-2018-18013 is: \"* Xen Mobile through 10.8.0 includes a service listening on port 5001 within its firewall that accepts unauthenticated input. If this service is supplied with raw serialised Java objects, it deserialises them back into Java objects in memory, giving rise to a remote code execution vulnerability.  NOTE: the vendor disputes that this is a vulnerability, stating it is \\\"already mitigated by the internal firewall that limits access to configuration services to localhost.\" You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2018-18013."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2018-18013",
+        "expected_answer": 1.8,
+        "actual_answer": "The exploitability score of CVE-2018-18013 is 1.8. For more details, visit https://nvd.nist.gov/vuln/detail/CVE-2018-18013."
+    },
+    {
+        "question": "What is the impact score of CVE-2018-18013",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2018-18013 is 5.9. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2018-18013."
+    },
+    {
+        "question": "What is the base score of CVE-2018-18013",
+        "expected_answer": 7.8,
+        "actual_answer": "The base score of CVE-2018-18013 is 7.8. You can find more details at https://nvd.nist.gov/vuln/detail/CVE-2018-18013."
+    }
+]

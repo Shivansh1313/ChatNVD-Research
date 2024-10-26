@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is the published date of CVE-2021-24937",
+        "expected_answer": "2022-02-01T13:15Z",
+        "actual_answer": "The published date of CVE-2021-24937 is 2022-02-01T13:15Z. You can find more information about this CVE by visiting https://nvd.nist.gov/vuln/detail/CVE-2021-24937."
+    },
+    {
+        "question": "What is the description of CVE-2021-24937",
+        "expected_answer": "The Asset CleanUp: Page Speed Booster WordPress plugin before 1.3.8.5 does not escape the wpacu_selected_sub_tab_area parameter before outputting it back in an attribute in an admin page, leading to a Reflected Cross-Site Scripting issue",
+        "actual_answer": "The description of CVE-2021-24937 is: \"The Asset CleanUp: Page Speed Booster WordPress plugin before 1.3.8.5 does not escape the wpacu_selected_sub_tab_area parameter before outputting it back in an attribute in an admin page, leading to a Reflected Cross-Site Scripting issue.\"\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2021-24937"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2021-24937",
+        "expected_answer": 2.8,
+        "actual_answer": "Based on the provided context, the exploitability score for CVE-2021-24937 is 2.8.\n\nHere's a recommended link with additional information:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2021-24937"
+    },
+    {
+        "question": "What is the impact score of CVE-2021-24937",
+        "expected_answer": 2.7,
+        "actual_answer": "The impact score for CVE-2021-24937 is 2.7 according to the provided context.\n\nHere's a recommendation based on this information:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2021-24937"
+    },
+    {
+        "question": "What is the base score of CVE-2021-24937",
+        "expected_answer": 6.1,
+        "actual_answer": "Based on the provided context, the base score of CVE-2021-24937 is 6.1. \n\nHere's the recommended URL for more information:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2021-24937"
+    },
+    {
+        "question": "What is the published date of CVE-2020-0831",
+        "expected_answer": "2020-03-12T16:15Z",
+        "actual_answer": "The published date of CVE-2020-0831 is (2020-03-12T16:15Z) March 12, 2020.\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2020-0831"
+    },
+    {
+        "question": "What is the description of CVE-2020-0831",
+        "expected_answer": "A remote code execution vulnerability exists in the way that the ChakraCore scripting engine handles objects in memory, aka 'Scripting Engine Memory Corruption Vulnerability'. This CVE ID is unique from CVE-2020-0768, CVE-2020-0823, CVE-2020-0825, CVE-2020-0826, CVE-2020-0827, CVE-2020-0828, CVE-2020-0829, CVE-2020-0830, CVE-2020-0832, CVE-2020-0833, CVE-2020-0848.",
+        "actual_answer": "A remote code execution vulnerability exists in the way that the ChakraCore scripting engine handles objects in memory, aka 'Scripting Engine Memory Corruption Vulnerability'. This CVE ID is unique from CVE-2020-0768, CVE-2020-0823, CVE-2020-0825, CVE-2020-0826, CVE-2020-0827, CVE-2020-0828, CVE-2020-0829, CVE-2020-0832, CVE-2020-0833, CVE-2020-0848.\n\nFor more details: https://nvd.nist.gov/vuln/detail/CVE-2020-0831"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2020-0831",
+        "expected_answer": 1.6,
+        "actual_answer": "Based on the provided context, the exploitability score for CVE-2020-0831 is 1.6.\n\nFor your reference, I recommend checking out the official NVD (National Vulnerability Database) page for this CVE:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2020-0831"
+    },
+    {
+        "question": "What is the impact score of CVE-2020-0831",
+        "expected_answer": 5.9,
+        "actual_answer": "According to the provided context, the impact score of CVE-2020-0831 is 5.9.\n\nYou can find more information about this CVE at https://nvd.nist.gov/vuln/detail/CVE-2020-0831"
+    },
+    {
+        "question": "What is the base score of CVE-2020-0831",
+        "expected_answer": 7.5,
+        "actual_answer": "The base score of CVE-2020-0831 is 7.5.\n\nYou can refer to the official CVE database for more information: https://nvd.nist.gov/vuln/detail/CVE-2020-0831"
+    },
+    {
+        "question": "What is the published date of CVE-2018-10795",
+        "expected_answer": "2018-05-07T13:29Z",
+        "actual_answer": "The published date of CVE-2018-10795 is 2018-05-07T13:29Z. \n\nYou can also visit https://nvd.nist.gov/vuln/detail/CVE-2018-10795 for more information about this CVE."
+    },
+    {
+        "question": "What is the description of CVE-2018-10795",
+        "expected_answer": "Liferay 6.2.x and before has an FCKeditor configuration that allows an attacker to upload or transfer files of dangerous types that can be automatically processed within the product's environment via a browser/liferay/browser.html?Type= or html/js/editor/fckeditor/editor/filemanager/browser/liferay/browser.html URI. NOTE: the vendor disputes this issue because file upload is an expected feature, subject to Role Based Access Control checks where only authenticated users with proper permissions can upload files",
+        "actual_answer": "According to the context, the description of CVE-2018-10795 is:\n\n\"Liferay 6.2.x and before has an FCKeditor configuration that allows an attacker to upload or transfer files of dangerous types that can be automatically processed within the product's environment via a browser/liferay/browser.html?Type= or html/js/editor/fckeditor/editor/filemanager/browser/liferay/browser.html URI. NOTE: the vendor disputes this issue because file upload is an expected feature, subject to Role Based Access Control checks where only authenticated users with proper permissions can upload files\"\n\nYou may also want to check the official CVE report for more details:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2018-10795"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2018-10795",
+        "expected_answer": 2.8,
+        "actual_answer": "Based on the context, the exploitability score for CVE-2018-10795 is 2.8. \n\nHere's the recommended link with the CVE ID attached: https://nvd.nist.gov/vuln/detail/CVE-2018-10795"
+    },
+    {
+        "question": "What is the impact score of CVE-2018-10795",
+        "expected_answer": 5.9,
+        "actual_answer": "According to the provided CVE data, the impact score for CVE-2018-10795 is 5.9.\n\nHere's a link to more information on this CVE: https://nvd.nist.gov/vuln/detail/CVE-2018-10795"
+    },
+    {
+        "question": "What is the base score of CVE-2018-10795",
+        "expected_answer": 8.8,
+        "actual_answer": "According to the provided context, the base score of CVE-2018-10795 is 8.8.\n\nTo learn more about this vulnerability, I recommend visiting https://nvd.nist.gov/vuln/detail/CVE-2018-10795"
+    },
+    {
+        "question": "What is the published date of CVE-2021-30514",
+        "expected_answer": "2021-06-04T18:15Z",
+        "actual_answer": "The published date of CVE-2021-30514 is 2021-06-04T18:15Z. For more information, please visit https://nvd.nist.gov/vuln/detail/CVE-2021-30514."
+    },
+    {
+        "question": "What is the description of CVE-2021-30514",
+        "expected_answer": "Use after free in Autofill in Google Chrome prior to 90.0.4430.212 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.",
+        "actual_answer": "According to the context, CVE-2021-30514 has a description: \"Use after free in Autofill in Google Chrome prior to 90.0.4430.212 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.\"\n\nYou can learn more about this vulnerability on https://nvd.nist.gov/vuln/detail/CVE-2021-30514."
+    },
+    {
+        "question": "What is the exploitability score of CVE-2021-30514",
+        "expected_answer": 2.8,
+        "actual_answer": "According to the context, the exploitability score for CVE-2021-30514 is 2.8.\n\nHere's a recommendation: https://nvd.nist.gov/vuln/detail/CVE-2021-30514"
+    },
+    {
+        "question": "What is the impact score of CVE-2021-30514",
+        "expected_answer": 5.9,
+        "actual_answer": "According to the context, the impact score of CVE-2021-30514 is 5.9.\n\nHere's the relevant information from the context:\n\n\"Impact\": {\n\"baseMetricV3\": {\n...\n\"integrityImpact\": \"HIGH\",\n\"availabilityImpact\": \"HIGH\",\n\"impactScore\": 5.9\n}\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2021-30514"
+    },
+    {
+        "question": "What is the base score of CVE-2021-30514",
+        "expected_answer": 8.8,
+        "actual_answer": "According to the provided CVE data, the base score of CVE-2021-30514 is 8.8 as per CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H.\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2021-30514"
+    },
+    {
+        "question": "What is the published date of CVE-2019-10996",
+        "expected_answer": "2019-09-23T16:15Z",
+        "actual_answer": "The published date of CVE-2019-10996 is (2019-09-23T16:15Z) September 23, 2019. You can find more information about this vulnerability on https://nvd.nist.gov/vuln/detail/CVE-2019-10996"
+    },
+    {
+        "question": "What is the description of CVE-2019-10996",
+        "expected_answer": "Red Lion Controls Crimson, version 3.0 and prior and version 3.1 prior to release 3112.00, allow multiple vulnerabilities to be exploited when a valid user opens a specially crafted, malicious input file that can reference memory after it has been freed.",
+        "actual_answer": "The description of CVE-2019-10996 is: \"Red Lion Controls Crimson, version 3.0 and prior and version 3.1 prior to release 3112.00, allow multiple vulnerabilities to be exploited when a valid user opens a specially crafted, malicious input file that can reference memory after it has been freed.\"\n\nHere's the relevant CVE details:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2019-10996"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2019-10996",
+        "expected_answer": 1.8,
+        "actual_answer": "The original context mentions CVE-2019-10996, so I'll provide details about that CVE. According to the provided data, the exploitability score for CVE-2019-10996 is 1.8.\n\nHere's a link to more information on this CVE: https://nvd.nist.gov/vuln/detail/CVE-2019-10996"
+    },
+    {
+        "question": "What is the impact score of CVE-2019-10996",
+        "expected_answer": 5.9,
+        "actual_answer": "The original query is about the impact score of CVE-2019-10996. \n\nAccording to the provided context, the impact scores for CVE-2019-10996 are:\n\nFor CVSS v3: \n* Confidentiality Impact: HIGH (5.9)\n* Integrity Impact: HIGH (5.9)\n* Availability Impact: HIGH (5.9)\n\nFor CVSS v2:\n* Confidentiality Impact: PARTIAL\n* Integrity Impact: PARTIAL\n* Availability Impact: PARTIAL\n\nIt's also important to note that the overall impact score for this CVE is HIGH.\n\nTo learn more about this vulnerability, I recommend visiting https://nvd.nist.gov/vuln/detail/CVE-2019-10996."
+    },
+    {
+        "question": "What is the base score of CVE-2019-10996",
+        "expected_answer": 7.8,
+        "actual_answer": "Based on the provided context, the base score for CVE-2019-10996 is 7.8. \n\nFor more information, I recommend checking out this website: https://nvd.nist.gov/vuln/detail/CVE-2019-10996"
+    }
+]

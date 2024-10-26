@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is the published date of CVE-2017-1998",
+        "expected_answer": "2018-01-05T14:29Z",
+        "actual_answer": "PublishedDate: 2018-01-05T14:29Z\nhttps://nvd.nist.gov/vuln/detail/CVE-2017-1998"
+    },
+    {
+        "question": "What is the description of CVE-2017-1998",
+        "expected_answer": "Rejected reason: DO NOT USE THIS CANDIDATE NUMBER.  ConsultIDs: none.  Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017.  Notes: none",
+        "actual_answer": "Rejected reason: DO NOT USE THIS CANDIDATE NUMBER.  ConsultIDs: none.  Reason: This candidate was in a CNA pool that was not assigned to any issues during 2017.  Notes: none\n\nRecommendation: https://nvd.nist.gov/vuln/detail/CVE-2017-1998"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2017-1998",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not mention the exploitability score of CVE-2017-1998."
+    },
+    {
+        "question": "What is the impact score of CVE-2017-1998",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not contain any information about the impact score of CVE-2017-1998."
+    },
+    {
+        "question": "What is the base score of CVE-2017-1998",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not include information about the base score of CVE-2017-1998."
+    },
+    {
+        "question": "What is the published date of CVE-2019-1162",
+        "expected_answer": "2019-08-14T21:15Z",
+        "actual_answer": "The published date of CVE-2019-1162 is 2019-08-14T21:15Z.\n\nFor more information, please visit: https://nvd.nist.gov/vuln/detail/CVE-2019-1162"
+    },
+    {
+        "question": "What is the description of CVE-2019-1162",
+        "expected_answer": "An elevation of privilege vulnerability exists when Windows improperly handles calls to Advanced Local Procedure Call (ALPC).\nAn attacker who successfully exploited this vulnerability could run arbitrary code in the security context of the local system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.\nTo exploit this vulnerability, an attacker would first have to log on to the system. An attacker could then run a specially crafted application that could exploit the vulnerability and take control over an affected system.\nThe update addresses the vulnerability by correcting how Windows handles calls to ALPC.\n",
+        "actual_answer": "CVE-2019-1162 is an elevation of privilege vulnerability that exists when Windows improperly handles calls to Advanced Local Procedure Call (ALPC). An attacker who successfully exploited this vulnerability could run arbitrary code in the security context of the local system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights.\n\nRecommendation: https://nvd.nist.gov/vuln/detail/CVE-2019-1162"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2019-1162",
+        "expected_answer": 1.8,
+        "actual_answer": "The exploitability score of CVE-2019-1162 is 1.8.\n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2019-1162"
+    },
+    {
+        "question": "What is the impact score of CVE-2019-1162",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2019-1162 is 5.9.\n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2019-1162"
+    },
+    {
+        "question": "What is the base score of CVE-2019-1162",
+        "expected_answer": 7.8,
+        "actual_answer": "The base score for CVE-2019-1162 is 7.8. \n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2019-1162"
+    },
+    {
+        "question": "What is the published date of CVE-2019-8247",
+        "expected_answer": "2019-11-14T16:15Z",
+        "actual_answer": "The published date of CVE-2019-8247 is 2019-11-14T16:15Z.\n\nFor more information, please visit: https://nvd.nist.gov/vuln/detail/CVE-2019-8247"
+    },
+    {
+        "question": "What is the description of CVE-2019-8247",
+        "expected_answer": "Adobe Illustrator CC versions 23.1 and earlier have a memory corruption vulnerability. Successful exploitation could lead to arbitrary code execution .",
+        "actual_answer": "CVE-2019-8247 is a memory corruption vulnerability in Adobe Illustrator CC versions 23.1 and earlier. Successful exploitation could lead to arbitrary code execution. \n\nFor more information visit: https://nvd.nist.gov/vuln/detail/CVE-2019-8247"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2019-8247",
+        "expected_answer": 3.9,
+        "actual_answer": "The exploitability score of CVE-2019-8247 is 3.9.\n\nFor more details, please visit: https://nvd.nist.gov/vuln/detail/CVE-2019-8247"
+    },
+    {
+        "question": "What is the impact score of CVE-2019-8247",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2019-8247 is 5.9.\n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2019-8247"
+    },
+    {
+        "question": "What is the base score of CVE-2019-8247",
+        "expected_answer": 9.8,
+        "actual_answer": "The base score of CVE-2019-8247 is 9.8 according to CVSS v3 and 10.0 according to CVSS v2.\n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2019-8247"
+    },
+    {
+        "question": "What is the published date of CVE-2023-39475",
+        "expected_answer": "2024-05-03T03:15Z",
+        "actual_answer": "PublishedDate: 2024-05-03T03:15Z\nI recommend you to visit this website for more information: https://nvd.nist.gov/vuln/detail/CVE-2023-39475"
+    },
+    {
+        "question": "What is the description of CVE-2023-39475",
+        "expected_answer": "Inductive Automation Ignition ParameterVersionJavaSerializationCodec Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Inductive Automation Ignition. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the ParameterVersionJavaSerializationCodec class. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-20290.",
+        "actual_answer": ""
+    },
+    {
+        "question": "What is the exploitability score of CVE-2023-39475",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not contain any information about the exploitability score of CVE-2023-39475."
+    },
+    {
+        "question": "What is the impact score of CVE-2023-39475",
+        "expected_answer": "No data available",
+        "actual_answer": "The context does not provide information about the impact score of CVE-2023-39475."
+    },
+    {
+        "question": "What is the base score of CVE-2023-39475",
+        "expected_answer": "No data available",
+        "actual_answer": "The context provided does not include the base score of CVE-2023-39475."
+    },
+    {
+        "question": "What is the published date of CVE-2014-3883",
+        "expected_answer": "2014-06-21T15:55Z",
+        "actual_answer": "The published date of CVE-2014-3883 is 2014-06-21T15:55Z.\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2014-3883"
+    },
+    {
+        "question": "What is the description of CVE-2014-3883",
+        "expected_answer": "Usermin before 1.600 allows remote attackers to execute arbitrary operating-system commands via unspecified vectors related to a user action.",
+        "actual_answer": ""
+    },
+    {
+        "question": "What is the exploitability score of CVE-2014-3883",
+        "expected_answer": 8.6,
+        "actual_answer": "8.6\nhttps://nvd.nist.gov/vuln/detail/CVE-2014-3883"
+    },
+    {
+        "question": "What is the impact score of CVE-2014-3883",
+        "expected_answer": 6.4,
+        "actual_answer": "The impact score of CVE-2014-3883 is 6.4.\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2014-3883"
+    },
+    {
+        "question": "What is the base score of CVE-2014-3883",
+        "expected_answer": 6.8,
+        "actual_answer": "The base score for CVE-2014-3883 is 6.8.\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2014-3883"
+    }
+]

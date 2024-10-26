@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is the published date of CVE-2021-43685",
+        "expected_answer": "2021-12-01T16:15Z",
+        "actual_answer": "The published date of CVE-2021-43685 is 2021-12-01T16:15Z.\n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2021-43685"
+    },
+    {
+        "question": "What is the description of CVE-2021-43685",
+        "expected_answer": "libretime hv3.0.0-alpha.10 is affected by a path manipulation vulnerability in /blob/master/legacy/application/modules/rest/controllers/ShowImageController.php through the rename function.",
+        "actual_answer": "CVE-2021-43685 is a path manipulation vulnerability in libretime hv3.0.0-alpha.10 through the rename function in /blob/master/legacy/application/modules/rest/controllers/ShowImageController.php. \n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2021-43685"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2021-43685",
+        "expected_answer": 3.9,
+        "actual_answer": "The exploitability score of CVE-2021-43685 is 3.9.\n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2021-43685"
+    },
+    {
+        "question": "What is the impact score of CVE-2021-43685",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2021-43685 is 5.9. \n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2021-43685"
+    },
+    {
+        "question": "What is the base score of CVE-2021-43685",
+        "expected_answer": 9.8,
+        "actual_answer": "The base score of CVE-2021-43685 is 9.8.\n\nSee more details here: https://nvd.nist.gov/vuln/detail/CVE-2021-43685"
+    },
+    {
+        "question": "What is the published date of CVE-2006-5678",
+        "expected_answer": "2006-11-03T11:07Z",
+        "actual_answer": "The published date of CVE-2006-5678 is 2006-11-03T11:07Z.\n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2006-5678"
+    },
+    {
+        "question": "What is the description of CVE-2006-5678",
+        "expected_answer": "PHP remote file inclusion vulnerability in common/visiteurs/include/library.inc.php in J-Pierre DEZELUS Les Visiteurs 2.0.1, as used in phpMyConferences (phpMyConference) 8.0.2 and possibly other products, allows remote attackers to execute arbitrary PHP code via a URL in the lvc_modules_dir parameter.  NOTE: CVE disputes this vulnerability, because the inclusion occurs in a function that is not called during a direct request to library.inc.php",
+        "actual_answer": ""
+    },
+    {
+        "question": "What is the exploitability score of CVE-2006-5678",
+        "expected_answer": 10.0,
+        "actual_answer": "The exploitability score of CVE-2006-5678 is 10.0.\n\nFor more details, please visit: https://nvd.nist.gov/vuln/detail/CVE-2006-5678"
+    },
+    {
+        "question": "What is the impact score of CVE-2006-5678",
+        "expected_answer": 6.4,
+        "actual_answer": "The impact score of CVE-2006-5678 is 6.4.\n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2006-5678"
+    },
+    {
+        "question": "What is the base score of CVE-2006-5678",
+        "expected_answer": 7.5,
+        "actual_answer": "The base score of CVE-2006-5678 is 7.5.\n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2006-5678"
+    },
+    {
+        "question": "What is the published date of CVE-2017-1000405",
+        "expected_answer": "2017-11-30T22:29Z",
+        "actual_answer": "The published date of CVE-2017-1000405 is 2017-11-30T22:29Z.\nhttps://nvd.nist.gov/vuln/detail/CVE-2017-1000405"
+    },
+    {
+        "question": "What is the description of CVE-2017-1000405",
+        "expected_answer": "The Linux Kernel versions 2.6.38 through 4.14 have a problematic use of pmd_mkdirty() in the touch_pmd() function inside the THP implementation. touch_pmd() can be reached by get_user_pages(). In such case, the pmd will become dirty. This scenario breaks the new can_follow_write_pmd()'s logic - pmd can become dirty without going through a COW cycle. This bug is not as severe as the original \"Dirty cow\" because an ext4 file (or any other regular file) cannot be mapped using THP. Nevertheless, it does allow us to overwrite read-only huge pages. For example, the zero huge page and sealed shmem files can be overwritten (since their mapping can be populated using THP). Note that after the first write page-fault to the zero page, it will be replaced with a new fresh (and zeroed) thp.",
+        "actual_answer": ""
+    },
+    {
+        "question": "What is the exploitability score of CVE-2017-1000405",
+        "expected_answer": 1.0,
+        "actual_answer": "The exploitability score of CVE-2017-1000405 is 1.0. \nhttps://nvd.nist.gov/vuln/detail/CVE-2017-1000405"
+    },
+    {
+        "question": "What is the impact score of CVE-2017-1000405",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2017-1000405 is 5.9.\nhttps://nvd.nist.gov/vuln/detail/CVE-2017-1000405"
+    },
+    {
+        "question": "What is the base score of CVE-2017-1000405",
+        "expected_answer": 7.0,
+        "actual_answer": "The base score for CVE-2017-1000405 is 7.0. \n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2017-1000405"
+    },
+    {
+        "question": "What is the published date of CVE-2016-2254",
+        "expected_answer": "2017-01-02T09:59Z",
+        "actual_answer": "PublishedDate: 2017-01-02T09:59Z\n\nI recommend you visit this website for more information: https://nvd.nist.gov/vuln/detail/CVE-2016-2254"
+    },
+    {
+        "question": "What is the description of CVE-2016-2254",
+        "expected_answer": "Rejected reason: DO NOT USE THIS CANDIDATE NUMBER.  ConsultIDs: none.  Reason: The CNA or individual who requested this candidate did not associate it with any vulnerability during 2016.  Notes: none",
+        "actual_answer": "Rejected reason: DO NOT USE THIS CANDIDATE NUMBER.  ConsultIDs: none.  Reason: The CNA or individual who requested this candidate did not associate it with any vulnerability during 2016.  Notes: none\n\nRecommendation: https://nvd.nist.gov/vuln/detail/CVE-2016-2254"
+    },
+    {
+        "question": "What is the exploitability score of CVE-2016-2254",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not mention the exploitability score of CVE-2016-2254."
+    },
+    {
+        "question": "What is the impact score of CVE-2016-2254",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not contain any information about the impact score of CVE-2016-2254."
+    },
+    {
+        "question": "What is the base score of CVE-2016-2254",
+        "expected_answer": "No data available",
+        "actual_answer": "The provided context does not contain information about the base score of CVE-2016-2254."
+    },
+    {
+        "question": "What is the published date of CVE-2022-39817",
+        "expected_answer": "2022-09-13T21:15Z",
+        "actual_answer": "The published date of CVE-2022-39817 is 2022-09-13T21:15Z.\n\nFor more information, visit: https://nvd.nist.gov/vuln/detail/CVE-2022-39817"
+    },
+    {
+        "question": "What is the description of CVE-2022-39817",
+        "expected_answer": "In NOKIA 1350 OMS R14.2, multiple SQL Injection vulnerabilities occurs. Exploitation requires an authenticated attacker. Through the injection of arbitrary SQL statements, a potential authenticated attacker can modify query syntax and perform unauthorized (and unexpected) operations against the remote database.",
+        "actual_answer": ""
+    },
+    {
+        "question": "What is the exploitability score of CVE-2022-39817",
+        "expected_answer": 2.8,
+        "actual_answer": "The exploitability score of CVE-2022-39817 is 2.8.\n\nFor more details, please visit: https://nvd.nist.gov/vuln/detail/CVE-2022-39817"
+    },
+    {
+        "question": "What is the impact score of CVE-2022-39817",
+        "expected_answer": 5.9,
+        "actual_answer": "The impact score of CVE-2022-39817 is 5.9.\n\nSee more details at: https://nvd.nist.gov/vuln/detail/CVE-2022-39817"
+    },
+    {
+        "question": "What is the base score of CVE-2022-39817",
+        "expected_answer": 8.8,
+        "actual_answer": "The base score for CVE-2022-39817 is 8.8. \n\nFor more information, please visit: https://nvd.nist.gov/vuln/detail/CVE-2022-39817"
+    }
+]
